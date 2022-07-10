@@ -1,14 +1,14 @@
 <template>
-  <Montar />
+  <MontarLanche />
 </template>
 
 <script>
-import Montar from './components/Montar.vue'
+import MontarLanche from './components/MontarLanche.vue'
 
 export default {
   name: 'App',
   components: {
-    Montar
+    MontarLanche
   }
 }
 </script>
